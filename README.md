@@ -1,4 +1,0 @@
-jdeveloper
-==========
-
-content about jdeveloper
