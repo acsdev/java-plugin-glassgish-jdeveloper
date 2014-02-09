@@ -1,0 +1,9 @@
+Bundle-ManifestVersion: 2.0
+Bundle-Version: 1.0.0
+Bundle-SymbolicName: br.sca.extension.glassfish
+Bundle-ClassPath: .
+Require-Bundle: oracle.ide,
+ oracle.idert,
+ oracle.javatools-nodeps,
+ oracle.uic,
+ oracle.javatools
